@@ -1,6 +1,6 @@
 # Infracost CircleCI with GitHub Demo
 
-See [this pull request](https://github.com/infracost/circleci-demo/pull/3) for the demo.
+See [this pull request](https://github.com/Unity-Billal-mesloub/circleci-demo/pull/3) for the demo.
 
 Follow [our documentation here](https://github.com/infracost/infracost-circleci) to setup Infracost in your CircleCI pipeline to see cost estimates in your pull requests.
 
